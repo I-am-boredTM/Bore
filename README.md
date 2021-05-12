@@ -1,6 +1,7 @@
-# Bore
-[Discord Server](https://discord.gg/YyNUgDWSAf) | [Twitter]() | []()
+# Socials
+[Discord Server](https://discord.gg/YyNUgDWSAf) | [Twitter](https://twitter.com/Iambore1) | [Youtube](https://www.youtube.com/channel/UCCiUbe4NZMEfEeAXX9AHfYA)
 
+# Bore
 A powerful Discord.js bot. Feel free to contribute
 
 
