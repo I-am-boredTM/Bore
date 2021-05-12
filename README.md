@@ -1,5 +1,6 @@
 # Bore
-[Official Discord Server](https://discord.gg/YyNUgDWSAf)
+[Discord Server](https://discord.gg/YyNUgDWSAf) | [Twitter]() | []()
+
 A powerful Discord.js bot. Feel free to contribute
 
 
